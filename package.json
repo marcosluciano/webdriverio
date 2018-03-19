@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {},
   "scripts": {
-    "test": "react-scripts start"
+    "test": "wdio wdio.conf.js"
   },
   "devDependencies": {
     "selenium-standalone": "^6.13.0",
