@@ -1,0 +1,13 @@
+{
+  "name": "webdriverio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "test": "react-scripts start"
+  },
+  "devDependencies": {
+    "selenium-standalone": "^6.13.0",
+    "wdio-jasmine-framework": "^0.3.2"
+  }
+}
